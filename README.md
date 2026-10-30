@@ -157,10 +157,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is proprietary and confidential.
 
-## 👥 Author
-
-**Nidhi** - Project Developer
-
 ## 🔗 Links
 
 - GitHub Repository: [https://github.com/nidhi071113/Fujitsu-Fraudring-project](https://github.com/nidhi071113/Fujitsu-Fraudring-project)
